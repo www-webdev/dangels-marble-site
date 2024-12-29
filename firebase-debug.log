@@ -1,0 +1,21 @@
+[debug] [2024-12-28T10:47:56.371Z] ----------------------------------------------------------------------
+[debug] [2024-12-28T10:47:56.401Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\ADMIN\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2024-12-28T10:47:56.403Z] CLI Version:   13.29.1
+[debug] [2024-12-28T10:47:56.403Z] Platform:      win32
+[debug] [2024-12-28T10:47:56.404Z] Node Version:  v22.12.0
+[debug] [2024-12-28T10:47:56.405Z] Time:          Sat Dec 28 2024 18:47:56 GMT+0800 (China Standard Time)
+[debug] [2024-12-28T10:47:56.406Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-12-28T10:47:56.451Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-12-28T10:47:56.453Z] > authorizing via signed-in user (dangelsmilkshake2005@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\ADMIN\Documents\dangels-marble-distributor
+
